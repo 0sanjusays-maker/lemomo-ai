@@ -1,1 +1,7 @@
 .DS_Store
+
+# generated media workspace (kept out of git)
+google_drive/
+work/
+output/
+*.tgz
